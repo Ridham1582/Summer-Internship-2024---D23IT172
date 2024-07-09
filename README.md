@@ -9,7 +9,7 @@ This is the documentation for the Summer Internship 2024.
 
 ## Week 1
 
-During the first week of my course, I delved into the fundamentals of HTML and gained a comprehensive understanding of its core components. I learned about the importance of semantic elements, which are crucial for defining the distinct sections of a web page, thus enhancing its structure, meaning, and accessibility. I also focused on the best practices for writing HTML code, ensuring proper syntax and organization. This initial week provided me with valuable insights into various aspects of HTML, laying a strong groundwork for my future web development endeavors. 
+During the first week , I delved into the fundamentals of HTML and gained a comprehensive understanding of its core components. I learned about the importance of semantic elements, which are crucial for defining the distinct sections of a web page, thus enhancing its structure, meaning, and accessibility. I also focused on the best practices for writing HTML code, ensuring proper syntax and organization. This initial week provided me with valuable insights into various aspects of HTML, laying a strong groundwork for my future web development endeavors. 
 
 ## Week 2
 
